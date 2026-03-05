@@ -15,9 +15,10 @@
 
 </p>
 
-## 🌐 Connect With Me
 
-<div align="center"\>
+
+## 🌐 Connect With Me
+<div align="center">
   <a href="https://instagram.com/shruten_ahir_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" height="45" />
   </a>
@@ -25,7 +26,20 @@
   <a href="https://linkedin.com/in/vala-shruten-57585a2a6" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/shruten-vala" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+  </a>
 </div>
+<p align="center">
+  <i>Open to collaborations, internships, and learning opportunities!</i>
+</p>
+
+
+
+
+
+
 
 
 <h2 align="center">💻 Programming</h2>
@@ -42,18 +56,30 @@
 </p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shruten-vala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shruten-vala&theme=tokyonight&hide_border=false)<br/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=shruten-vala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=shruten-vala&theme=tokyonight&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shruten-vala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="center">✍️ Random Dev Quote</h2>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+<br/>
 
----
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=shruten-vala&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
 
 

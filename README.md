@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋 I'm Shruten<br><br>🧠 Computer Science student at Parul University  <br>🎓 B.Tech CSE (AI/ML)  <br>🐍 Python Developer  <br>🤖 Interested in Artificial Intelligence & Machine Learning 
+## Hi 👋 I'm Shruten<br><br>🧠 Computer Science student at Parul University  <br>🐍 Python programmer  <br>🤖 AI & Machine Learning enthusiast  <br>📈 Currently improving my skills in programming, problem solving, and AI  <br>🚀 Aspiring to build impactful technology and intelligent systems
 
 
 ## 🌐 Socials:

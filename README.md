@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Shruten</h1>
 
 <p align="center">
@@ -15,7 +14,46 @@
 
 </p>
 
+<br/>
 
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=shruten-vala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=shruten-vala&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shruten-vala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+<br/>
+
+
+<h2 align="center">💻 Programming</h2>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java" />
+</p>
+
+<br/>
+
+
+<h2 align="center">⚙️ Tools</h2>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+<br/>
+
+
+<h2 align="center">🤖 AI / ML (Learning)</h2>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+</p>
+
+<br/>
 
 
 ## 🌐 Connect With Me
@@ -36,36 +74,7 @@
   <i>Open to collaborations, internships, and learning opportunities!</i>
 </p>
 
-<br/> <h2 align="center">💻 Programming</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java" />
-</p>
-
-<br/> <h2 align="center">⚙️ Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
-
-<br/> <h2 align="center">🤖 AI / ML (Learning)</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
-</p>
-
-<br/> <h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=shruten-vala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=shruten-vala&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shruten-vala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-
-
-
+<br/>
 
 
 <h2 align="center">✍️ Random Dev Quote</h2>
@@ -79,6 +88,3 @@
 [![](https://visitcount.itsvg.in/api?id=shruten-vala&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
-
-

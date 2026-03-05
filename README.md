@@ -1,7 +1,11 @@
 # 💫 About Me:
 ## Hi 👋 I'm Shruten<br><br>🧠 Computer Science student at Parul University  <br>🐍 Python programmer  <br>🤖 AI & Machine Learning enthusiast  <br>📈 Currently improving my skills in programming, problem solving, and AI  <br>🚀 Aspiring to build impactful technology and intelligent systems
 
-![Visitors](https://komarev.com/ghpvc/?username=shruten-vala&color=blue)
+<p align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=shrutenvala&color=blue)
+
+</p>
 
 
 ## 🌐 Socials:

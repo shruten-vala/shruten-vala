@@ -15,9 +15,17 @@
 
 </p>
 
+## 🌐 Connect With Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shruten_ahir_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vala-shruten-57585a2a6) 
+<div align="center"\>
+  <a href="https://instagram.com/shruten_ahir_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/vala-shruten-57585a2a6" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
+  </a>
+</div>
 
 
 <h2 align="center">💻 Programming</h2>
@@ -48,6 +56,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/shruten-vala/shruten-vala/blob/output/github-contribution-grid-snake.svg)

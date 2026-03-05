@@ -19,10 +19,20 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shruten_ahir_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vala-shruten-57585a2a6) 
 
-<h2 align="center">🛠 Tech Stack</h2>
+
+<h2 align="center">💻 Programming</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java" />
 </p>
+<h2 align="center">⚙️ Tools</h2>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+<h2 align="center">🤖 AI / ML (Learning)</h2>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+</p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shruten-vala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>

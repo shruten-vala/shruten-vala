@@ -10,7 +10,7 @@
 
 <p align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=shrutenvala&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=shrutenvala&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </p>
 

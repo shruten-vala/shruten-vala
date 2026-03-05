@@ -17,6 +17,7 @@
 
 
 
+
 ## 🌐 Connect With Me
 <div align="center">
   <a href="https://instagram.com/shruten_ahir_" target="_blank">
@@ -35,29 +36,22 @@
   <i>Open to collaborations, internships, and learning opportunities!</i>
 </p>
 
-
-
-
-
-
-
-
-<h2 align="center">💻 Programming</h2>
+<br/> <h2 align="center">💻 Programming</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java" />
-</p>
-<h2 align="center">⚙️ Tools</h2>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
-<h2 align="center">🤖 AI / ML (Learning)</h2>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
+<br/> <h2 align="center">⚙️ Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
+<br/> <h2 align="center">🤖 AI / ML (Learning)</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+</p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<br/> <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -68,6 +62,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shruten-vala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+
+
+
+
+
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 <div align="center">
